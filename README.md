@@ -1,2 +1,1 @@
-# dhruv-patel
-My Portfolio
+# ganesh021.github.io
